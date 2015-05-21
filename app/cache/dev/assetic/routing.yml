@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:/wamp/www/Examen_todo/app/config/routing_dev.yml'
